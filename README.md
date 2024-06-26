@@ -1,5 +1,5 @@
 # wheather-app
-This project is a weather application built using HTML, CSS, and JavaScript (with the Fetch API). It retrieves weather data from the OpenWeatherMap API based on the user's input city. Here's a simplified breakdown:
+This project is a weather application built using HTML, CSS, and JavaScript (with the Fetch API). It retrieves weather data from the OpenWeatherMap API based on the user's input city.
 
 
 
